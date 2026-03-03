@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aneena</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=25&center=true&vCenter=true&width=700&lines=AI/ML+Engineer;Computer+Vision+Developer;Hackathon+Builder;Intelligent+Systems+Enthusiast;Data+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=25&center=true&vCenter=true&width=700&lines=AI/ML;Computer+Vision+Developer;Intelligent+Systems+Enthusiast;Data+Science+Student" />
 </p>
 
 ---
