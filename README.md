@@ -24,10 +24,18 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AneenaSam/AneenaSam/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AneenaSam&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
