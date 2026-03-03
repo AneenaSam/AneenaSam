@@ -24,22 +24,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AneenaSam&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneenaSam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AneenaSam&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/AneenaSam/AneenaSam/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
