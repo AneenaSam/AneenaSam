@@ -28,11 +28,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AneenaSam&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?AneenaSam=AneenaSam&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneenaSam&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?AneenaSam=AneenaSam&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -48,11 +48,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[(https://www.linkedin.com/in/aneena-sam?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/in/aneena-sam?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
