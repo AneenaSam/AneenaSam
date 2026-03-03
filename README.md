@@ -22,15 +22,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,streamlit" />
 </p>
 
----
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AneenaSam&theme=flat&no-frame=true&margin-w=10" />
-</p>
 ---
 
 ## ✨ Dev Quote
