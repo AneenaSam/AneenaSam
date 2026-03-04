@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML Enthusiast | Computer Vision Developer | Data Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Explorer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=AI/ML;Machine+Learning+Developer;Computer+Vision+Explorer;Always+Learning+New+Things" />
 </p>
 
 ---
