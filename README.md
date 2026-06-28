@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Aneena Sam</h1>
-<h3 align="center">AI | Data Science | Machine Learning | Computer Vision Enthusiast</h3>
+```markdown
+<h1 align="center">𝑯𝒊 👋, 𝑰'𝒎 <b>Aneena Sam</b></h1>
+
+<h3 align="center">
+𝘈𝘐 • 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 • 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 • 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘝𝘪𝘴𝘪𝘰𝘯
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Integrated+MSc+Data+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Computer+Vision+Researcher;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Integrated+MSc+Data+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Computer+Vision+Researcher;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+<h2>👩‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆</h2>
 
 🎓 Integrated MSc Computer Science (Data Science)
 
@@ -17,13 +21,13 @@
 
 📊 Exploring Data Analytics and Intelligent Systems
 
-🌱 Currently learning
+🌱 **Currently Learning**
 - Deep Learning
 - Generative AI
 - Computer Vision
 - MLOps
 
-💬 Ask me about
+💬 **Ask me about**
 - Python
 - Machine Learning
 - Computer Vision
@@ -32,7 +36,7 @@
 
 ---
 
-## 💻 Languages
+<h2>💻 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
@@ -40,7 +44,7 @@
 
 ---
 
-## 🤖 AI & Data Science
+<h2>🤖 𝑨𝑰 & 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
@@ -56,7 +60,7 @@
 
 ---
 
-## 🌐 Web Development
+<h2>🌐 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,react,vite,tailwind" />
@@ -64,7 +68,7 @@
 
 ---
 
-## 🛠 Tools
+<h2>🛠 𝑻𝒐𝒐𝒍𝒔</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -77,29 +81,33 @@
 
 ---
 
-
-## 🌐 Connect With Me
+<h2>🌐 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆</h2>
 
 <p align="left">
 
-<a href="https://github.com/AneenaSam">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/AneenaSam" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="www.linkedin.com/in/aneena-sam">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/aneena-sam/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://aneenasam.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:aneenasam.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=mailboxdotorg&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
+<p align="center">
+<i>"Building intelligent solutions through AI, Machine Learning, and Computer Vision."</i>
+</p>
+```
