@@ -84,11 +84,6 @@
 
 <p align="center">
 
-<a href="https://github.com/AneenaSam" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/aneena-sam/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
@@ -110,4 +105,3 @@
 <p align="center">
 <i>Building intelligent solutions through AI, Machine Learning, and Computer Vision.</i>
 </p>
-```
