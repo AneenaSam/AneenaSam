@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F472B6,50:A855F7,100:3B82F6&text=Aneena%20Sam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Computer%20Vision&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=250&color=0:FF0080,50:7928CA,100:00C6FF&text=Aneena%20Sam&fontColor=ffffff&fontSize=60&animation=twinkling"/>
 </p>
-
 <h1 align="center">𝑯𝒊 👋, 𝑰'𝒎 <b>Aneena Sam</b></h1>
 
 <h3 align="center">
