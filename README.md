@@ -1,63 +1,84 @@
-<div align="center">
-
-<img src="./assets/banner.png" width="100%" alt="Aneena Sam Banner"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=D94F70&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Deep+Learning+Learner" />
-
-<br><br>
-
-<p>
-  <img src="https://img.shields.io/badge/🧠%20Machine%20Learning-F9D5E5?style=for-the-badge&labelColor=FFFFFF&color=F9D5E5"/>
-  <img src="https://img.shields.io/badge/👁️%20Computer%20Vision-E8D9FF?style=for-the-badge&labelColor=FFFFFF&color=E8D9FF"/>
-  <img src="https://img.shields.io/badge/🤖%20Deep%20Learning-FFE6CC?style=for-the-badge&labelColor=FFFFFF&color=FFE6CC"/>
-</p>
-
-<br>
-
-> ### 💬 *"Learning, Building and Growing with AI."*
-
-</div>
-
----
-
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 <table>
 <tr>
-<td width="38%" valign="top">
 
-### 👤 Profile
+<td width="35%" valign="top">
 
-- 🎓 **Integrated M.Sc. Computer Science (Data Science)**
-- 🏫 Nirmala College, Kerala
-- 📍 Ernakulam, Kerala, India
-- 🌱 Currently exploring AI technologies
-- 💡 Passionate about solving real-world problems
+<h3>👤 Profile</h3>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Student-F7D6E0?style=for-the-badge&labelColor=ffffff"/>
+
+<br><br>
+
+🎓 **Education**
+
+Integrated M.Sc. Computer Science (Data Science)
+
+📍 **Location**
+
+Kerala, India 🇮🇳
+
+🌱 **Currently Learning**
+
+- Artificial Intelligence
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
+- Generative AI
+
+🌐 **Languages**
+
+- English
+- Malayalam
 
 </td>
 
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-### ✨ Who am I?
+<h2>✨ Hello, I'm Aneena Sam!</h2>
 
-I'm an **AI & Data Science student** passionate about creating intelligent systems that solve real-world challenges.
+I'm an **AI & Data Science student** passionate about designing intelligent systems that solve real-world challenges through **Artificial Intelligence, Machine Learning, Computer Vision, and Data Analytics**.
 
-My interests span across **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, **Deep Learning**, and **Data Analytics**.
-
-I enjoy transforming ideas into impactful AI-powered applications while continuously learning emerging technologies and improving my development skills.
+I enjoy transforming ideas into impactful applications, exploring emerging technologies, and continuously improving my technical and problem-solving skills.
 
 <br>
 
-🌸 **Areas of Interest**
+### 🌸 What Describes Me?
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 👁 Computer Vision
-- 📊 Data Analytics
-- 🧬 Deep Learning
-- ✨ Generative AI
+<table>
+
+<tr>
+<td>🚀</td>
+<td><b>AI Builder</b><br>Creating AI-powered applications for practical problems.</td>
+</tr>
+
+<tr>
+<td>🧠</td>
+<td><b>Machine Learning Enthusiast</b><br>Passionate about predictive models and intelligent systems.</td>
+</tr>
+
+<tr>
+<td>👁️</td>
+<td><b>Computer Vision Explorer</b><br>Interested in image processing and vision-based AI.</td>
+</tr>
+
+<tr>
+<td>📊</td>
+<td><b>Data-Driven Thinker</b><br>Love extracting meaningful insights from data.</td>
+</tr>
+
+<tr>
+<td>💡</td>
+<td><b>Problem Solver</b><br>Enjoy solving challenging problems using technology.</td>
+</tr>
+
+<tr>
+<td>🌱</td>
+<td><b>Continuous Learner</b><br>Always exploring new tools, frameworks, and AI innovations.</td>
+</tr>
+
+</table>
 
 </td>
 
@@ -66,25 +87,15 @@ I enjoy transforming ideas into impactful AI-powered applications while continuo
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript"/>
 </p>
 
----
-
-## 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <p align="center">
 
@@ -100,9 +111,7 @@ I enjoy transforming ideas into impactful AI-powered applications while continuo
 
 </p>
 
----
-
-## 📊 Data Science
+### 📊 Data Science
 
 <p align="center">
 
@@ -114,33 +123,19 @@ I enjoy transforming ideas into impactful AI-powered applications while continuo
 
 </p>
 
----
-
-## 🌐 Web Development
+### 🌐 Web Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,django"/>
 
 </p>
 
----
-
-## 🛠 Tools
+### 🛠 Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
@@ -150,13 +145,13 @@ I enjoy transforming ideas into impactful AI-powered applications while continuo
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 🥇 **Winner — TINK-HER-HACK 4.0 Hackathon**
 
 📄 **Published Research Paper**
 
-> **The Evolving Landscape of Drug-Target Interaction Prediction: A Review of Deep Learning Innovations**
+**The Evolving Landscape of Drug-Target Interaction Prediction: A Review of Deep Learning Innovations**
 
 🎓 **Certifications**
 
@@ -167,12 +162,12 @@ I enjoy transforming ideas into impactful AI-powered applications while continuo
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
@@ -195,6 +190,6 @@ I enjoy transforming ideas into impactful AI-powered applications while continuo
 
 ### 💖 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&color=C77DFF&center=true&width=450&lines=Always+Learning.;Always+Building.;Always+Growing." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&color=C77DFF&center=true&width=500&lines=Always+Learning.;Always+Building.;Always+Growing.;Let's+Build+Something+Amazing!" />
 
 </div>
