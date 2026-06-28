@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hello+World!;I'm+Aneena+Sam;AI+%7C+Machine+Learning+%7C+Data+Science"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:000000,100:00FF88&text=Aneena%20Sam&fontColor=00FF88&fontSize=55"/>
 </p>
 
 <h1 align="center">𝑯𝒊 👋, 𝑰'𝒎 <b>Aneena Sam</b></h1>
