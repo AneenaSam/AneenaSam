@@ -93,21 +93,15 @@
 
 ---
 
-## 📊 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AneenaSam">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/aneena-sam">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
