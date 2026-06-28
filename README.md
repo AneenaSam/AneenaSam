@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:000000,100:00FF88&text=Aneena%20Sam&fontColor=00FF88&fontSize=55"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=Aneena%20Sam&height=180&fontSize=60&animation=fadeIn&fontAlignY=45"/>
 </p>
 
 <h1 align="center">𝑯𝒊 👋, 𝑰'𝒎 <b>Aneena Sam</b></h1>
