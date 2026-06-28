@@ -14,32 +14,15 @@
 
 # 👩‍💻 About Me
 
-```python
-class AneenaSam:
+## 💻 About Me
 
-    def __init__(self):
-        self.name = "Aneena Sam"
-        self.role = "AI & Data Science Student"
-        self.location = "Kerala, India"
-
-    def interests(self):
-        return [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Data Analytics",
-            "Deep Learning",
-            "Generative AI"
-        ]
-
-    def learning(self):
-        return [
-            "LLMs",
-            "Computer Vision",
-            "AI Applications"
-        ]
-
-me = AneenaSam()
+```text
+> Name        : Aneena Sam
+> Role        : AI & Data Science Student
+> Education   : Integrated M.Sc. Computer Science (Data Science)
+> Interests   : AI | ML | Computer Vision | Data Analytics
+> Currently   : Learning Deep Learning & LLMs
+> Location    : Kerala, India
 ```
 
 - 🎓 Integrated M.Sc Computer Science (Data Science)
