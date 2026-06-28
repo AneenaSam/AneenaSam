@@ -1,156 +1,126 @@
+<h1 align="center">Hi 👋, I'm Aneena Sam</h1>
+<h3 align="center">AI | Data Science | Machine Learning | Computer Vision Enthusiast</h3>
 
-<div align="center">
-
-<img src="./assets/banner.png" width="100%" alt="Aneena Sam Banner"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&pause=1200&color=7B2D26&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Aneena+Sam;AI+%26+Data+Science+Student;Building+Intelligent+Systems;Machine+Learning+%7C+Computer+Vision;Always+Learning+Something+New" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-EFD9D1?style=for-the-badge&labelColor=FFF8F4&color=EFD9D1"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-F3E6DA?style=for-the-badge&labelColor=FFF8F4&color=F3E6DA"/>
-<img src="https://img.shields.io/badge/Data%20Science-F8EAD8?style=for-the-badge&labelColor=FFF8F4&color=F8EAD8"/>
-
-> ### 🌸 *Learning • Building • Growing with AI*
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Integrated+MSc+Data+Science+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Computer+Vision+Researcher;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="35%" valign="top">
+🎓 Integrated MSc Computer Science (Data Science)
 
-### 👤 Profile
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 
-- 🎓 Integrated M.Sc. Computer Science (Data Science)
-- 🏫 Nirmala College
-- 📍 Kerala, India
-- 💻 AI & Data Science Student
+👁️ Interested in Computer Vision and Deep Learning
 
-### 🌱 Currently Exploring
+📊 Exploring Data Analytics and Intelligent Systems
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
+🌱 Currently learning
 - Deep Learning
 - Generative AI
-- Large Language Models
+- Computer Vision
+- MLOps
 
-### 🌐 Languages
-
-- English
-- Malayalam
-
-</td>
-
-<td width="65%" valign="top">
-
-## ✨ Hello!
-
-I'm **Aneena Sam**, an AI & Data Science student with a strong interest in building intelligent systems that solve real-world problems.
-
-My work focuses on Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning, and Data Analytics. I enjoy turning ideas into practical AI applications while continuously learning new technologies.
-
-### 🌷 What Describes Me?
-
-- 🤖 AI Enthusiast
-- 🧠 Machine Learning Learner
-- 👁️ Computer Vision Explorer
-- 📊 Data-Driven Thinker
-- 🚀 Problem Solver
-- 🌱 Continuous Learner
-
-</td>
-</tr>
-</table>
+💬 Ask me about
+- Python
+- Machine Learning
+- Computer Vision
+- Data Analytics
+- OpenCV
 
 ---
 
-# 💻 Tech Stack
+## 💻 Languages
 
-### Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript"/>
-</p>
-
-### AI & Machine Learning
-
-<p align="center">
-<img src="https://img.shields.io/badge/OpenCV-8B5E5E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv8-C78F6A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-D9A066?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EasyOCR-C88D92?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLTK-8E8F6A?style=for-the-badge"/>
-</p>
-
-### Data Science
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-CDB4DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-BDE0FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-FFD6A5?style=for-the-badge"/>
-</p>
-
-### Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,django"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-<img src="https://img.shields.io/badge/Jupyter-F6BD60?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9C74F?style=for-the-badge"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
 </p>
 
 ---
 
-# 🏆 Highlights
+## 🤖 AI & Data Science
 
-- 🥇 Winner — **TINK-HER-HACK 4.0**
-- 📄 Published Research Paper on Drug–Target Interaction Prediction
-- 🎓 NPTEL Elite – Foundations of Deep Learning
-- 🤖 Essentials in Generative AI
-- 💼 Python + Django Internship
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- EasyOCR
+- NLTK
+- YOLOv8
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,react,vite,tailwind" />
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Google Colab
+- Jupyter Notebook
+- Streamlit
+- Gradio
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-<a href="https://aneenasam.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-7B2D26?style=for-the-badge"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 <a href="mailto:aneenasam.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-B85450?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-A67C73?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-### 🤍 Thank you for visiting!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1200&color=A44A3F&center=true&width=500&lines=Inspired+by+Curiosity.;Driven+by+Data.;Powered+by+AI." />
-
-</div>
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
