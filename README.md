@@ -1,8 +1,7 @@
-```markdown
 <h1 align="center">𝑯𝒊 👋, 𝑰'𝒎 <b>Aneena Sam</b></h1>
 
 <h3 align="center">
-𝘈𝘐 • 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 • 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 • 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘝𝘪𝘴𝘪𝘰𝘯
+𝘈𝘐 • 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 • 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 • 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘝𝘪𝘴𝘪𝘰𝒏
 </h3>
 
 <p align="center">
@@ -13,13 +12,13 @@
 
 <h2>👩‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆</h2>
 
-🎓 Integrated MSc Computer Science (Data Science)
+🎓 **Integrated MSc Computer Science (Data Science)**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
 
-👁️ Interested in Computer Vision and Deep Learning
+👁️ Interested in **Computer Vision & Deep Learning**
 
-📊 Exploring Data Analytics and Intelligent Systems
+📊 Exploring **Data Analytics** and **Intelligent Systems**
 
 🌱 **Currently Learning**
 - Deep Learning
@@ -83,31 +82,32 @@
 
 <h2>🌐 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆</h2>
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/AneenaSam" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/aneena-sam/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="https://aneenasam.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:aneenasam.tech@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=mailboxdotorg&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
-
 <p align="center">
-<i>"Building intelligent solutions through AI, Machine Learning, and Computer Vision."</i>
+<i>Building intelligent solutions through AI, Machine Learning, and Computer Vision.</i>
 </p>
 ```
